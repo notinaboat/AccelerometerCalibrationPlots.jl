@@ -2,9 +2,7 @@
 # AccelerometerCalibrationPlots.jl
 
 Debug plots for
-[AccelerometerCalibration.jl](../AccelerometerCalibration.jl).
-
-![](../AccelerometerCalibration.jl/test/plot.gif)
+[AccelerometerCalibration.jl](https://github.com/notinaboat/AccelerometerCalibration.jl)
 """
 module AccelerometerCalibrationPlots
 
