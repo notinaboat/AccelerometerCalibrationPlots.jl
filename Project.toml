@@ -1,0 +1,4 @@
+name = "AccelerometerCalibrationPlots"
+uuid = "82c91972-f4de-488c-a775-6461c92e2845"
+authors = ["notinaboat <notinaboat@icloud.com>"]
+version = "0.1.0"
