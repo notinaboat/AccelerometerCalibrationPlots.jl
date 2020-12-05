@@ -2,3 +2,7 @@ name = "AccelerometerCalibrationPlots"
 uuid = "82c91972-f4de-488c-a775-6461c92e2845"
 authors = ["notinaboat <notinaboat@icloud.com>"]
 version = "0.1.0"
+
+[deps]
+AccelerometerCalibration = "582f2c5a-4111-49b9-930f-e1743b435c6e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
